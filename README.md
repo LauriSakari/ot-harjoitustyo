@@ -8,3 +8,5 @@ Ja sitten lainaus :
 
 > Päivä kerrallaan.
 > -Mauri
+
+[gitlock.txt](https://github.com/LauriSakari/ot-harjoitustyo/blob/master/laskarit/gitlog.txt)
